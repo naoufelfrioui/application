@@ -7,6 +7,25 @@ import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { HallocomponentComponent } from './hallocomponent/hallocomponent.component';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
